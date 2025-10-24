@@ -48,7 +48,7 @@ I'm a passionate **Fullstack Web and Mobile Application Developer** with experti
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naos-belay-lnkdn/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naos-b)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amenediel)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naosbelay@gmail.com)
 
 ## 📊 GitHub Stats
@@ -59,12 +59,12 @@ I'm a passionate **Fullstack Web and Mobile Application Developer** with experti
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naos-b&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Naos-b&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Amenediel&theme=radical&hide_border=true)
 
 </div>
 
 ## 💡 Philosophy
-> "Write code that not only works but inspires. Build applications that not only function but delight."
+> "Write code that will fix itself when you give up and go to sleep."
 
 ---
 
