@@ -65,7 +65,7 @@ I'm a passionate **Fullstack Web and Mobile Application Developer** with experti
 </div>
 
 ## 💡 Philosophy
-> "Write code that will fix itself when you give up and go to sleep."
+> "Write a code that will fix itself when you give up and go to sleep."
 
 ---
 
